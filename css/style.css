@@ -106,3 +106,9 @@ footer {
     background: #1e293b;
     color: #64748b;
 }
+
+.news {
+    padding: 40px 32px;
+    background: #e0f2fe;
+    border-left: 4px solid #2563eb;
+}
