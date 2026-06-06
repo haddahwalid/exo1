@@ -3,9 +3,9 @@ name: CI - Validation HTML/CSS/JS
 # Declencheurs : s'execute a chaque push et pull request sur main 
 on: 
   push: 
-    branches: [ main ] 
+    branches: [ feature/contact-form] 
   pull_request: 
-    branches: [ main ] 
+    branches: [ feature/contact-form ] 
   
 jobs: 
   validate: 
